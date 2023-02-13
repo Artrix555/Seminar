@@ -9,7 +9,8 @@ Considering this was my first attempt at building a functional website, It was a
 I might also revisit this project in the future to improve it.
 <pre>
 Programs used: Visual Studio Code (HTML5, CSS3), Adobe Photoshop
-Here are some previews (I had to zoom out a lot to capture the full scale in some pictures):
+Here are some previews:
+P.S. Some images are zoomed out a lot to capture the full scale.
 </pre>
 
 
