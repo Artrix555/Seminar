@@ -8,7 +8,7 @@ For example, I added a planet and blended it with the background of the website 
 Considering this was my first attempt at building a functional website, It was a valuable learning experience.
 I might also revisit this project in the future to improve it.
 <pre>
-Programs used: Visual Studio Code, Adobe Photoshop
+Programs used: Visual Studio Code (HTML5, CSS3), Adobe Photoshop
 Here are some previews:
 </pre>
 
