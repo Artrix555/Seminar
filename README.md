@@ -1,16 +1,9 @@
-# My first attempt at building a website
+# NASA-Themed Website - Web Development Project
+This project is a NASA-themed website created as a practice exercise for an introductory Web Development course. Designed to demonstrate foundational web skills, the website’s content is in Croatian and explores NASA’s missions, history, and partnerships. The homepage provides an overview, with hyperlinks leading to relevant sections on NASA’s official website.
 
-This is a website I made for my Web Development class. I choose NASA as a topic and tried to create my own version of the web page.
-The content of the website was written in Croatian language.
-Because of project guidelines, I had to use multiple frameworks like Bootstrap and Flexbox. 
-The homepage has some information about missions, history and active partners. I also added hyperlinks for every topic which lead to the original NASA website. The website also has a contact page, about us page, news page (with information relevant at the time I was making the website, which was around mid 2022) and a web shop page. I also tried to make the website look as good and modern as possible at the time limited by my knowledge.
-For example, I added a planet and blended it with the background of the website at the bottom of some pages.
-Considering this was my first attempt at building a functional website, It was a valuable learning experience.
-<pre>
-Programs used: Visual Studio Code (HTML5, CSS3), Adobe Photoshop
-Here are some previews:
-P.S. Some images are zoomed out a lot.
-</pre>
+As per course guidelines, this project incorporates multiple frameworks, including Bootstrap and Flexbox, to enhance structure and responsiveness. Additional pages include "About Us," "Contact," "News" (featuring updates relevant to mid-2022), and a "Web Shop" page. Visual elements, such as an integrated planet graphic, add a modern touch to the site’s design.
+
+Overall, this was a first practical venture into building a fully functional website, offering an invaluable hands-on learning experience in web development.
 
 ![image](https://user-images.githubusercontent.com/110913178/218593174-ad446754-e0df-438a-8db4-dbc9a94064f8.png)
 
